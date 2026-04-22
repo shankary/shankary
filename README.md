@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
 I am a Technology Analyst supporting enterprise applications and ensuring smooth operations for critical business systems. I hold Permanent Residency in Canada and am actively seeking new opportunities.<br><br>I have worked at Infosys (Ex-Infoscian), providing application support for in-house, SaaS, and COTS platforms. I served as Deputy Application Manager for a client engagement at Novartis, managing 12+ applications and leading a team of 5. My experience includes incident resolution, change management, application monitoring, stakeholder communication, and improving operational efficiency across multiple environments.<br><br>Experienced in C#, SQL, HTML, CSS, with hands-on knowledge of MS Visual Studio, SQL Server Management Studio, SVN Repository, ServiceNow, Splunk, Dynatrace, and ITIL processes. Microsoft Certified: Azure Developer Associate.<br><br>Known for strong problem-solving, customer focus, teamwork, and adaptability. Skilled at managing multiple priorities and delivering reliable solutions that enhance system performance and user satisfaction.
 
 
